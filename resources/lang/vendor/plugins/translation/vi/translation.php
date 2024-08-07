@@ -1,0 +1,27 @@
+<?php
+
+return [
+    'download' => 'Tải xuống',
+    'edit' => 'Chỉnh sửa',
+    'actions' => 'Hành động',
+    'add_new_language' => 'Thêm mới ngôn ngữ',
+    'admin-translations' => 'Các bản dịch khác',
+    'append_translation' => 'Thêm bản dịch mới',
+    'back' => 'Quay lại',
+    'choose_a_group' => 'Chọn một nhóm',
+    'choose_group_msg' => 'Chọn một nhóm để hiển thị bản dịch của nhóm. Nếu không có nhóm nào hiển thị, hãy đảm bảo bạn đã nhập bản dịch.',
+    'choose_language' => 'Chọn ngôn ngữ',
+    'confirm_delete_message' => 'Bạn có thực sự muốn xóa locale này không? Nó sẽ xóa tất cả các tệp/thư mục cho local này trong /resources/lang!',
+    'confirm_publish_group' => 'Bạn có chắc chắn muốn xuất bản nhóm bản dịch ":group" không? Thao tác này sẽ ghi đè lên các tệp ngôn ngữ hiện có.',
+    'default_locale' => 'Ngôn ngữ mặc định?',
+    'delete' => 'Xóa',
+    'done_publishing' => 'Đã hoàn tất việc xuất bản bản dịch cho nhóm',
+    'edit_title' => 'Nhập bản dịch',
+    'export_warning' => 'Cảnh báo, bản dịch sẽ không hiển thị cho đến khi chúng được xuất trở lại tệp resources/lang bằng lệnh \'php artisan cms:translations:export\' hoặc nút xuất bản.',
+    'folder_is_not_writeable' => 'Không thể ghi file! Thư mục /resources/lang không thể ghi. Vui lòng chmod để làm cho nó có thể ghi!',
+    'import_done' => 'Đã nhập xong, xử lý các mục :counter! Tải lại trang này để làm mới các nhóm!',
+    'publish_translations' => 'Xuất bản bản dịch',
+    'replace_translation' => 'Thay thế bản dịch hiện có',
+    'name' => 'Tên',
+    'select_language' => 'Lựa chọn ngôn ngữ',
+];

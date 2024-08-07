@@ -1,0 +1,8 @@
+Source này chạy với:
+php artisan serve
+
+---------------
+Tài khoản quản trị:
+http://localhost:8000/admin/login
+admin / 123456
+bcthanh / kienthuctin
